@@ -1,5 +1,7 @@
 ### Здравствуй! 👋
 
+> Добро пожаловать в мой профиль.
+
 <!--
 **losexds/losexds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
