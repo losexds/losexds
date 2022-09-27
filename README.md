@@ -1,7 +1,10 @@
 ### Здравствуй! 👋
 
-> Добро пожаловать в мой профиль.
+> 16 years old, Russia - Yekaterinburg.ᅠᅠ
+> 
+>💻 Frontend developer
 
+![Хорош](https://i.ibb.co/fXKy0SK/Shirayo-kharosh.gif)
 <!--
 **losexds/losexds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
