@@ -1,6 +1,6 @@
 ### Здравствуй! 👋
 
-> 16 years old, Russia - Yekaterinburg.ᅠᅠ
+> 16 years old, Russia - Yekaterinburg.
 > 
 >💻 Frontend developer
 
